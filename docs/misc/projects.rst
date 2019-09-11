@@ -123,6 +123,8 @@ Reinforcement learning is used to train agents to control pistons attached to a 
 | GitHub: https://github.com/jaberkow/WaveRL
 | Presentation: http://bit.ly/WaveRLslides
 
+
+
 Fenics-DRL: Fluid mechanics and Deep Reinforcement Learning
 -----------------------------------------------------------
 
@@ -135,4 +137,16 @@ Deep Reinforcement Learning is used to control the position or the shape of obst
 | Paper: https://arxiv.org/abs/1908.04127
 | Website: https://donsetpg.github.io/blog/2019/08/06/DRL-FM-review/
 
+Air Learning: An AI Research Platform Algorithm Hardware Benchmarking of Autonomous Aerial Robots
+-------------------------------------------------------------------------------------------------
+Aerial robotics is a cross-layer, interdisciplinary field. Air Learning is an effort to bridge seemingly disparate fields.
+
+Designing an autonomous robot to perform a task involves interactions between various boundaries spanning from modeling the environment down to the choice of onboard computer platform available in the robot. Our goal through building Air Learning is to provide researchers with a cross-domain infrastructure that allows them to holistically study and evaluate reinforcement learning algorithms for autonomous aerial machines. We use stable-baselines to train UAV agent with Deep Q-Networks and Proximal Policy Optimization algorithms.
+
+| Authors: Srivatsan Krishnan, Behzad Boroujerdian, William Fu, Aleksandra Faust, Vijay Janapa Reddi
+| Email: srivatsan@seas.harvard.edu
+| Github:https://github.com/harvard-edge/airlearning
+| Paper: https://arxiv.org/pdf/1906.00421.pdf
+| Video: https://www.youtube.com/watch?v=oakzGnh7Llw (Simulation), https://www.youtube.com/watch?v=cvO5YOzI0mg (on a CrazyFlie Nano-Drone)
+ 
 
